@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(204, 150, 255);
+}
+.table{
+    width: 500px;
+    margin: 10px auto;
+    border: solid black 2px;
+
+}
+.formulario{
+    width: 500px;
+    margin: 10px auto;
+    border: solid violet 5px;
+    border-radius: 10px;
+    background-color: rgb(221, 185, 255);
+}
+.botondropdown{
+    text-align: center;
+    margin: 20px auto;
+}
+.logo{
+    width: 50px;
+}
+.colorpropio{
+    background-color: rgb(183, 106, 255);
+}
+.accordeon{
+    width: 700px;
+    margin: 20px auto;
+    
+}
